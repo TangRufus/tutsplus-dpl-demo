@@ -4,7 +4,7 @@ Tags: medium
 Donate link: https://www.typist.tech/donate/remove-medium-cross-links
 Requires at least: 4.7
 Tested up to: 4.7.4
-Stable tag: 1.0.16
+Stable tag: 1.0.17
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -59,14 +59,6 @@ PHP 7 or later.
 No.
 This plugin is a [Typist Tech](https://www.typist.tech) project.
 
-= Does this plugin available in my language? =
-
-English works out of the box.
-
-Traditional Chinese language pack is available [here](https://translate.wordpress.org/projects/wp-plugins/remove-medium-cross-links/language-packs).
-
-You can add your own translation at [translate.wordpress.org](https://translate.wordpress.org/projects/wp-plugins/remove-medium-cross-links).
-
 = How to get support? =
 
 Use the WordPress support forum for this plugin at [https://wordpress.org/support/plugin/remove-medium-cross-links](https://wordpress.org/support/plugin/remove-medium-cross-links).
@@ -117,6 +109,10 @@ Shoot me an email at [info@typist.tech](mailto:info@typist.tech) or use this [co
 == Changelog ==
 
 Full change log available at [GitHub](https://github.com/TypistTech/remove-medium-cross-links/blob/master/CHANGELOG.md)
+
+= 1.0.17 =
+
+* Update readme
 
 = 1.0.16 =
 
